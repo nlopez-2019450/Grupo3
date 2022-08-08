@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url("Image/Background3.png");
+
+}
+
+.encabezado{
+    width: 1100px;
+    margin: 10px auto;
+    padding: 10px ;
+    opacity: 50; 
+}
+
+.barra_menu{
+    background-color: #7fc05b ;
+    width: 1100px;
+    margin: 10px auto;
+}
+
+.menu li{
+    list-style: none;
+    padding: 10px;
+    display: inline-block;
+    border: black;
+}
+
+.agrupar{
+    width: 1000px;
+    background-color: white;
+    margin: 10px auto;
+    padding: 10px;
+ 
+}
