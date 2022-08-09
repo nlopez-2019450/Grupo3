@@ -15,7 +15,7 @@ body{
     opacity: 50; 
 }
 
-.barra_menu{
+.navegacion{
     background-color: #7fc05b ;
     width: 1100px;
     margin: 10px auto;
@@ -32,6 +32,11 @@ body{
     width: 1000px;
     background-color: white;
     margin: 10px auto;
-    padding: 10px;
- 
+    padding: 10px; 
 }
+
+.section1{
+    margin: 20px;
+    width: 500px;
+}
+
